@@ -1,0 +1,19 @@
+.banner {
+  background-image: /Users/zoelou/Desktop/the chausseterie/images/bannerchaussette.jpg ;
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: rgb(50, 50, 50);
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}

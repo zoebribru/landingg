@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(243, 104, 137);
+  color: white;
+}
+
+.navbar nav a {
+  color: white;
+  margin-left: 15px;
+}j
+
+.navbar:hover {
+  color: rgb(139, 0, 61);
+}
+
+
